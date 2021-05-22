@@ -15,6 +15,8 @@
 > Podemos instalar um sensor de calor nos cômodos da casa e, caso o sensor determine que não há ninguem no apartamento e esteja ligado um aparelho consumindo muita energia, como por exemplo um ar condicionado, o sistema desligará este aparelho eletrônico, economizando assim, na conta de luz com esse sistema inteligente de gastos.
 ##### Esses são apenas alguns exemplos do que pode ser feito com os conceitos de Dómotica, automação residencial.
   
-  As aplicações de Automação são infinitas. Se podemos imaginar, pode ser feito.
-  Se pensarmos de maneira mais ampla, podemos ver que a Dómotica é muito aplicável em outras áreas e também, para diversas pessoas necessitadas. como por exemplo, pessoas com deficiência física. Fazendo com que ela ganhe independência e que facilite sua vida cotidiana através do uso da tecnologia
+As aplicações de Automação são infinitas. Se podemos imaginar, pode ser feito.
+Se pensarmos de maneira mais ampla, podemos ver que a Dómotica é muito aplicável em outras áreas e também, para diversas pessoas necessitadas. Como por exemplo, pessoas com deficiência física. Fazendo com que ela ganhe independência e que facilite sua vida cotidiana através do uso da tecnologia.
+
+Assim como o uso da tecnologia é indispensável para as pessoas com deficiência, não é diferente para os idosos. Sabemos que para alguns idosos, o esforço de levantar da cama e andar é gigantesco, podendo ser até grave em alguns casos, e para facilitar este fim, com a Domótica isso é resolvido. Basta criamos um sistema de voz que controle os dispositivos do apartamento ou casa. Quando este idoso disser para acender a luz da sala, até mesmo a TV ou outro aparelho. Ligará tudo que for mandado com o mínimo de esforço possível e isso pode ser feito até deitado. Trazendo uma acomodação muito melhor e mais segura para o idoso.  
 
