@@ -12,6 +12,7 @@
 * Como a Automação Residencial pode ajudar a minimizar esses esforços no dia a dia?
 > Com o conceito de Dómotica, podemos criar um sistema que controle a temperatura ambiente da casa a partir do acesso remoto feito pelo smartphone, ou, programar em um determinado horário que a temperatura ambiente fique mais fria ou quente de acordo com o que proprietário da casa quiser.
 > Podemos programar as luzes dos cômodos para que acenda com um toque pelo celular, ou até mesmo que desligue automaticamente em um determinado horário.
+> ![Exemplo](./Figuras/fotoseazone.jpg)
 > Podemos instalar um sensor de calor nos cômodos da casa e, caso o sensor determine que não há ninguem no apartamento e esteja ligado um aparelho consumindo muita energia, como por exemplo um ar condicionado, o sistema desligará este aparelho eletrônico, economizando assim, na conta de luz com esse sistema inteligente de gastos.
 ##### Esses são apenas alguns exemplos do que pode ser feito com os conceitos de Dómotica, automação residencial.
   
