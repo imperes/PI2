@@ -20,3 +20,6 @@ Se pensarmos de maneira mais ampla, podemos ver que a Dómotica é muito aplicá
 
 Assim como o uso da tecnologia é indispensável para as pessoas com deficiência, não é diferente para os idosos. Sabemos que para alguns idosos, o esforço de levantar da cama e andar é gigantesco, podendo ser até grave em alguns casos, e para facilitar este fim, com a Domótica isso é resolvido. Basta criamos um sistema de voz que controle os dispositivos do apartamento ou casa. Quando este idoso disser para acender a luz da sala, até mesmo a TV ou outro aparelho. Ligará tudo que for mandado com o mínimo de esforço possível e isso pode ser feito até deitado. Trazendo uma acomodação muito melhor e mais segura para o idoso.  
 
+Na empresa em que trabalho, a **Seazone**, utilizamos o conceito de Automação Residencial para solucionar alguns problemas enfrentados pelos donos de apartamentos, resorts e residências. O produto se chama **Sésamo** e ele é responsável por automatizar a abertura e fechamento das portas dos prédios, resorts e residências. Facilitando o Check-in e Check-out de quem alugou aquele apartamento.
+
+Podemos concluir que a **Dómotica** é extremamente necessário no dia a dia dos seres humanos, tanto para soluções de problemas, qunato para facilitar uma determinada tarefa.
