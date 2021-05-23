@@ -38,6 +38,6 @@ Podemos concluir que a **Dómotica** é extremamente necessário no dia a dia do
  <sub><b>Gabriel Peres</b></sub></a> <a href="https://github.com/imperes" title="Rocketseat">🚀</a>
 
 
-Feito com ❤️ por Gabriel Peres 👋🏽 Entre em contato!
+Feito com ❤️ por Gabriel Peres 📱 Entre em contato!
 
 [![Twitter Badge](https://img.shields.io/badge/-@Im_peres-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Im_peres)](https://twitter.com/Im_peres) [![Gmail Badge](https://img.shields.io/badge/-peres.gabriel.gabriel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=peres.gabriel.gabriel@gmail.com)](peres.gabriel.gabriel@gmail.com)
