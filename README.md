@@ -26,4 +26,4 @@ Assim como o uso da tecnologia é indispensável para as pessoas com deficiênci
 Na empresa em que trabalho, a **Seazone**, utilizamos o conceito de Automação Residencial para solucionar alguns problemas enfrentados pelos donos de apartamentos, resorts e residências. O produto se chama **Sésamo** e ele é responsável por automatizar a abertura e fechamento das portas dos prédios, resorts e residências. Facilitando o Check-in e Check-out de quem alugou aquele apartamento.
 ![Exemplo 2](./Figuras/exemplo2.jpg)
 
-Podemos concluir que a **Dómotica** é extremamente necessário no dia a dia dos seres humanos, tanto para soluções de problemas, qunato para facilitar uma determinada tarefa.
+Podemos concluir que a **Dómotica** é extremamente necessário no dia a dia dos seres humanos, tanto para soluções de problemas, quanto para facilitar uma determinada tarefa cotidiana.
