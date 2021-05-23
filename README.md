@@ -9,9 +9,9 @@
 
   A Domótica aborda sobre o uso de um sistema dinâmico que junta várias tecnologias parar fazer o controle de uso desses dispositivos conectados, de maneira que nós, seres humanos, realize o mínimo de esforço nas atividades diárias, domésticas e até mesmo empresariais.
 
-* Como a Automação Residencial pode ajudar a minimizar esses esforços no dia a dia?
+* Como a Automação Residencial pode ajudar a minimizar esses esforços do dia a dia?
 > ![Exemplo](./Figuras/fotoseazone.jpg)
-> * Com o conceito de Dómotica, podemos criar um sistema que controle a temperatura ambiente da casa a partir do acesso remoto feito pelo smartphone, ou, programar em um determinado horário que a temperatura ambiente fique mais fria ou quente de acordo com o que proprietário da casa quiser.
+> * Com o conceito de Dómotica, podemos criar um sistema que controle a temperatura ambiente da casa a partir do acesso remoto feito pelo smartphone, ou, programar em um determinado horário que a temperatura ambiente fique mais fria ou quente de acordo com o que proprietário da casa desejar.
 
 > * Podemos programar as luzes dos cômodos para que acenda com um toque pelo celular, ou até mesmo que desligue automaticamente em um determinado horário.
 
@@ -21,7 +21,7 @@
 As aplicações de Automação são infinitas. *"Se podemos imaginar, pode ser feito."*
 Se pensarmos de maneira mais ampla, podemos ver que a Dómotica é muito aplicável em outras áreas e também, para diversas pessoas necessitadas. Como por exemplo, pessoas com deficiência física. Fazendo com que ela ganhe independência e que facilite sua vida cotidiana através do uso da tecnologia.
 
-Assim como o uso da tecnologia é indispensável para as pessoas com deficiência, não é diferente para os idosos. Sabemos que para alguns idosos, o esforço de levantar da cama e andar é gigantesco, podendo ser até grave em alguns casos, e para facilitar este fim, com a Domótica isso é resolvido. Basta criamos um sistema de voz que controle os dispositivos do apartamento ou casa. Quando este idoso disser para acender a luz da sala, até mesmo a TV ou outro aparelho. Ligará tudo que for mandado com o mínimo de esforço possível e isso pode ser feito até deitado. Trazendo uma acomodação muito melhor e mais segura para o idoso.  
+Assim como o uso da tecnologia é indispensável para as pessoas com deficiência, não é diferente para os idosos. Sabemos que para alguns idosos, o esforço de levantar da cama e andar até o interruptor é gigantesco, podendo ser até grave em alguns casos, e para facilitar este fim, com a Domótica isso é resolvido. Basta criamos um sistema de voz que controle os dispositivos do apartamento ou casa. Quando este idoso disser para acender a luz da sala, até mesmo a TV ou outro aparelho. Ligará tudo que for mandado com o mínimo de esforço possível e isso pode ser feito até deitado. Trazendo uma acomodação muito melhor e mais segura para o idoso.  
 
 Na empresa em que trabalho, a **Seazone**, utilizamos o conceito de Automação Residencial para solucionar alguns problemas enfrentados pelos donos de apartamentos, resorts e residências. O produto se chama **Sésamo** e ele é responsável por automatizar a abertura e fechamento das portas dos prédios, resorts e residências. Facilitando o Check-in e Check-out de quem alugou aquele apartamento.
 ![Exemplo 2](./Figuras/exemplo2.jpg)
