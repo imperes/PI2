@@ -22,3 +22,5 @@ Na empresa em que trabalho, a **Seazone**, utilizamos o conceito de Automação 
 ![Exemplo 2](./Figuras/exemplo2.jpg)
 
 Podemos concluir que a **Dómotica** é extremamente necessário no dia a dia dos seres humanos, tanto para soluções de problemas, quanto para facilitar uma determinada tarefa cotidiana.
+
+[**Concepção do Projeto**](./concepcao.md)
