@@ -5,9 +5,9 @@
 ##### Repositório destinado ao Projeto Integrador 2 da 4º fase de Engenharia Eletrônica no IFSC - Câmpus Florianópolis
 ---
 
-* [Introdução à Domótica](./intro.md)
-* [Concepção do Projeto](./concepcao.md)
-* [Referências](./referencias.md)
+* [**Introdução à Domótica**](./intro.md)
+* [**Concepção do Projeto**](./concepcao.md)
+* [**Referências**](./referencias.md)
 
 ---
 #### Propriedade de Gabriel Peres
