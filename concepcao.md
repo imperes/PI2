@@ -1,6 +1,6 @@
 # Concepção do Projeto
 
-Recentemente uma explosão por vazamento de gás aconteceu no bairro Jurerê deixando os moradores daquele local gravemente feridos. Este não é o primeiro, nem o último acontecimento de explosão por vazamento. Como toda tecnologia disponível a nosso favor, como podemos deixar isso acontecer? Vidas perdidas e pessoas feridas por erros humanos. 
+Recentemente uma explosão por vazamento de gás aconteceu no bairro Jurerê deixando os moradores daquele local gravemente feridos. Este não é o primeiro, nem o último acontecimento de explosão por vazamento. Com toda tecnologia disponível e a nosso favor, como podemos deixar isso acontecer? Vidas perdidas e pessoas feridas por erros humanos. 
 
 ![Explosao](./Figuras/explosaojurere.jpg)
 
@@ -15,7 +15,7 @@ Para este projeto, será realizada a construção de um protótipo de casa com o
 
 ![Figura 1 - Planta da Casa](./Figuras/planta.png)
 
-Neste projeto, será implementado um sistema de automação (Domótica) para proporcionar conforto, segurança e praticidade em tarefas diárias. Com base nisso, veja a seguir o planejamento de instalação:
+Neste projeto, será implementado um sistema de automação (Domótica) para proporcionar conforto, segurança e praticidade em tarefas diárias. Com base nisso, veja a seguir o planejamento:
 
 * Controle remoto das luzes da casa - O usuário poderá controlar as luzes de todos os cômodos remotamente;
 * Sensor para vazamento de gás - Haverá um sensor de gás para evitar futuras explosões por vazamento de gáses inflamáveis;
