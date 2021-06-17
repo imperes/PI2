@@ -13,4 +13,4 @@ Para este projeto, será realizada a construção de um protótipo de casa com o
 
 ### Planta da Casa
 
-![Figura 1 - Planta da Casa](./Figuras/planta.png)
+[![Figura 1 - Planta da Casa](./Figuras/planta.png)]
