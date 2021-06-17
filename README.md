@@ -1,6 +1,13 @@
+![IFSC](./Figuras/logo.jpg)
+
+---
 # PROJETO INTEGRADOR II
 ##### Repositório destinado ao Projeto Integrador 2 da 4º fase de Engenharia Eletrônica no IFSC - Câmpus Florianópolis
 ---
+
+* [Introdução à Domótica](./README.md)
+* [Concepção do Projeto](./concepcao.md)
+* [Referências](./referencias.md)
 
 # DOMÓTICA - Automação Residencial
 
