@@ -11,10 +11,12 @@ Isso é só um exemplo do que pode ser feito e do que poderia ser evitado automa
 
 Para este projeto, será realizada a construção de um protótipo de casa com o objetivo de Automatizá-la e mostrar diversos tipos de tecnologia integrada para trazer mais comodidade, praticidade e segurança para o indivíduo.
 
+---
 # Planta da Casa
 
 ![Figura 1 - Planta da Casa](./Figuras/planta.png)
 
+---
 # Objetivos
 
 Neste projeto, será implementado um sistema de automação (Domótica) para proporcionar conforto, segurança e praticidade em tarefas diárias. Com base nisso, veja a seguir o planejamento:
@@ -24,4 +26,4 @@ Neste projeto, será implementado um sistema de automação (Domótica) para pro
 * Lâmpadas inteligentes - Serão LED's com sensores de luminosidade (LDR) no jardim para serem acionadas automaticamente sempre que anoiteça ou desligadas sempre quando amanhecer;
 * Portão eletrônico - Será instalado um motor servo para fazer a abertura e fechamento do portão de garagem remotamente; 
 * Sensor de Temperatura - Terá no painel central um display que mostrará toda a interface do sistema, e nele, haverá a temepratura ambiente;
-
+* Sistema de segurança para o acesso a casa - Será a implementação de um sensor de presença junto com um motor servo (ou módulo relê) instalado na porta da casa. Assim que houver movimento na região da porta, o usuário poderá abrir remotamente a porta. Esse sistema serve para a proteção da casa. Caso a pessoa abra a porta sem querer pelo acesso remoto, ela não acionará a abertura pois precisa captar movimento na região da porta.
