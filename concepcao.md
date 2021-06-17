@@ -15,6 +15,8 @@ Para este projeto, será realizada a construção de um protótipo de casa com o
 
 ![Figura 1 - Planta da Casa](./Figuras/planta.png)
 
+# Objetivos
+
 Neste projeto, será implementado um sistema de automação (Domótica) para proporcionar conforto, segurança e praticidade em tarefas diárias. Com base nisso, veja a seguir o planejamento:
 
 * Controle remoto das luzes da casa - O usuário poderá controlar as luzes de todos os cômodos remotamente;
