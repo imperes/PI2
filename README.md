@@ -7,6 +7,7 @@
 
 * [**Introdução à Domótica**](./intro.md)
 * [**Concepção do Projeto**](./concepcao.md)
+* [**Design**](./design.md)
 
 ---
 #### Propriedade de Gabriel Peres
