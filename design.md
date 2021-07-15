@@ -17,6 +17,7 @@ Resistor 10K | 1
 Arduino Mega 2560 | 1
 Display LCD 16x2 |   1
 Sensor de Temp. & Umi. DHT11 |   1
+LDR | 1
 
 ---
 ### Maquete Eletrônica
