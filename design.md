@@ -25,4 +25,4 @@ LDR | 1
 Para a criação da maquete eletronica foi utilizado o software *Fritzing*. A partir dele foi criado o seguinte esquemático:
 
 ###### Figura 1 - Maquete eletrônica.
-![Maquete Eletrônica](./Figuras/esquemackt.jpg)
+![Maquete Eletrônica](./Figuras/esquemack.jpg)
