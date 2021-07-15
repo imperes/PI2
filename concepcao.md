@@ -31,3 +31,6 @@ Neste projeto, será implementado um sistema de automação (Domótica) para pro
 * Lâmpadas inteligentes - Serão LED's com sensores de luminosidade (LDR) no jardim para serem acionadas automaticamente sempre que anoiteça ou desligadas sempre quando amanhecer;
 * Portão eletrônico - Será instalado um motor servo para fazer a abertura e fechamento do portão de garagem remotamente; 
 * Sensor de Temperatura - Terá no painel central um display que mostrará toda a interface do sistema, e nele, haverá a temperatura ambiente.
+
+---
+[**Design**](./design.md)
