@@ -39,5 +39,5 @@ A programação é realizada por meio da [IDE Arduino](https://www.arduino.cc/en
 * [Sensor de temperatura e umidade](./Testes/DHT.md)
 * [Sensor de luminosidade](./Testes/LDR.md)
 * [Sensor de presença](./Testes/PIR.md)
-* [Sensor de gás](./Testes/MQ2.md)
+* [Sensor de gás MQ2](./Testes/mq2.md)
 * [LCD 16x2](./Testes/lcd.md)
