@@ -46,7 +46,7 @@ A programação é realizada por meio da [IDE Arduino](https://www.arduino.cc/en
 * [Sensor de Gás MQ2](./Testes/mq2.md)
 * [LCD 16x2](./Testes/lcd.md)
 
-Precisamos tomar alguns cuidados para que tudo funcione adequadamente como um sistema com diversas tarefas sendo executadas ao mesmo tempo, como por exemplo não utilizar funções que bloqueiem completamente o sistema que é o caso da função delay(). Para exemplificar, a técnica de multitarefas que será utilizada foi disponibilizada pelo professor e tem como o código abaixo e demostra como temporizar duas tarefas simples de piscar LED:
+Precisamos tomar alguns cuidados para que tudo funcione adequadamente como um sistema com diversas tarefas sendo executadas ao mesmo tempo. Para exemplificar, a técnica de multitarefas que será utilizada foi disponibilizada pelo professor e tem como o código abaixo e demostra como temporizar duas tarefas simples de piscar LED:
 
 * [Exemplo tarefas](./Testes/multitarefas.ino)
 
