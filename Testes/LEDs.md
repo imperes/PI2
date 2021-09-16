@@ -6,7 +6,7 @@ Acender os LEDs é o primeiro passo para entender o funcionamento do arduino e f
 
 Para acender LEDs utilizando o arduíno é necessário utilizar resistores para compensar a tensão e corrente, e assim, evitar danificar os LEDs. O resistor utilizado foi de 330 ohms, mas podem ser utilizados outros valores desde que mantenham a corrente e tensão abaixo dos valores máximos suportados pelo LED.
 
-![blink](./Testes/testeled.png)
+![blink](../Testes/testeled.png)
 
 # Código
 
