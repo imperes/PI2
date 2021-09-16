@@ -44,7 +44,7 @@ Na casa principal foram feitas muitas perfurações nas partes traseira e latera
 
 <img src="./Figuras/fioslaterais.jpeg" width="300">
 
-<img src="./Figuras/instalacaoleds.jpeg" width="300">
+<img src="./Figuras/istalacaoleds.jpeg" width="300">
 
 Os sensores de Gás, Temperatura e Umidade, Buzzer e o Display LCD 16x2 foram posicionados na parte da cozinha e sala no primeiro andar. Pois facilita o acesso para realizar testes de funcionamento e até mesmo na manutenção.
 
