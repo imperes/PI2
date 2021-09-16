@@ -7,3 +7,34 @@ Para utilização de Servo Motores no Arduino, há uma biblioteca que deve ser i
 # Montagem do Circuito
 
 ![Servo](../Figuras/servo.png)
+
+#Código
+
+~~~C
+#include <Servo.h> //Inclusão da bibliotéca necessária
+
+#define SERVO 9 //Pino digital utilizado pelo servo
+
+Servo s; //Objeto do tipo servo
+int pos; //Posição do servo
+
+void setup () {
+  delay(2000);
+  s.attach(SERVO); //Associação do pino digital ao objeto do tipo servo
+  s.write(0); //Inicia o motor na posição 0°
+}
+void loop() {
+ /*Incrementa a variável "pos" de 10 a 170*/
+  for (pos = 10; pos <= 170; pos++) { 
+    s.write(pos); //Escreve o valor da posição que o servo deve girar
+    delay(50); //Intervalo de 15ms
+  }
+  delay(1000); //Intervalo de 1s
+  /*Decrementa a variável "pos" de 170 a 10*/
+  for (pos = 170; pos >= 10; pos--) { 
+    s.write(pos); //Escreve o valor da posição que o servo deve girar
+    delay(50); //Intervalo de 15ms
+  }
+
+}
+~~~
