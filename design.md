@@ -35,7 +35,7 @@ A programação é realizada por meio da [IDE Arduino](https://www.arduino.cc/en
 
 * [LEDs](./Testes/LEDs.md)
 * [Motor Servo MG995](./Testes/servo.md)
-* [Buzzer](./Testes/Buzzer.md)
+* [Buzzer](./Testes/buzzer.md)
 * [Sensor de temperatura e umidade DHT11](./Testes/DHT.md)
 * [Sensor de luminosidade LDR](./Testes/LDR.md)
 * [Sensor de presença PIR](./Testes/PIR.md)
