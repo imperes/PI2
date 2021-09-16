@@ -34,7 +34,7 @@ Depois de definirmos os componenetes, é necessário entender o funcionamento e 
 A programação é realizada por meio da [IDE Arduino](https://www.arduino.cc/en/software) e antes de executar os códigos é preciso selecionar o modelo da placa que será utilizado, nesse caso Arduino Mega 2560. Nos links abaixo serão descritos como foi feito os testes de cada parte do projeto:
 
 * [LEDs](./Testes/LEDs.md)
-* [Servo](./Testes/Servo.md)
+* [Motor Servo MG995](./Testes/servo.md)
 * [Buzzer](./Testes/Buzzer.md)
 * [Sensor de temperatura e umidade](./Testes/DHT.md)
 * [Sensor de luminosidade](./Testes/LDR.md)
