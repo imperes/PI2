@@ -8,7 +8,7 @@ Para utilização de Servo Motores no Arduino, há uma biblioteca que deve ser i
 
 ![Servo](../Figuras/servo.png)
 
-#Código
+# Código
 
 ~~~C
 #include <Servo.h> //Inclusão da bibliotéca necessária
