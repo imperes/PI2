@@ -58,13 +58,6 @@ Após realizadas todas as ligações da maquete, foram feitos inúmeros testes d
 
 <img src="./Figuras/maqueteligada.jpeg" width="300">
 
----
-# Código Principal
-
-Para acessar o meu código [**Clique aqui**](./Codigos/THE_HOUSE_CARIOCA.ino)
-
----
-
 # Funcionamento do Sistema Principal
 
 Na etapa anterior, foram realizados os testes individuais de cada componente. Agora, precisamos integrar todas as funcionalidades para que interajam de forma correta. Vale lembrar que as tarefas serão escalonadas na função loop, utilizando o métopo de multitarefas exemplicado no design. A baixo serão detalhadas cada tarefa, e seu respectivo funcionamento:
@@ -81,12 +74,19 @@ A função loop é responsável por chamar diversas outras funções que são as
    
    2 - Responsável por medir a temperatura e umidade, esse bloco funciona da seguinte maneira: Primeiro ele mede a temperatura e umidade, armazenas os valores lidos em variáveis distintas, aguarda 100 milisegundo e envia as informações armazenadas para o Display LCD 16x2. Esse bloco possui uma temporização independente.
    
-   3 - Responsável pelo sistema de detecção de movimento. O programa realiza uma leitura dos valores do sensor PIR, tais como Alto ou Baixo. Caso o valor seja Alto, o sensor é acionado e então ocorre a execução do sinal sonoro, o servo motor abre a cancela do portão e no display lcd recebe uma mensagem dizendo que um veículo está saindo. Caso negativo, ele realiza uma nova leitura.
+   3 - Responsável pelo sistema de detecção de movimento. O programa realiza uma leitura dos valores do sensor PIR, tais como Alto ou Baixo. Caso o valor seja Alto, o sensor é acionado e então ocorre a execução do sinal sonoro, o servo motor abre a cancela do portão e no display lcd recebe uma mensagem dizendo que um veículo está saindo. Caso negativo, ele realiza uma nova leitura. Esse bloco possui uma temporização independente.
    
-   4 - Responsável pelo sistema de vazamento de gás. O programa realiza uma leitura dos valores de concentração de gases e fumaça que o sensor MQ-2 envia. Caso o valor atinga uma quantidade significativa, o sensor é acionado e então ocorre a execução do sistema de segurança: É desligado todas as luzes e aberto a cancela do portão para evacuamento, além de tocar uma sirene alertando sobre o vazamento junto com uma mensagem no display lcd dizendo que está vazando gás. Caso negativo, ele aguarda e realiza uma nova leitura.
+   4 - Responsável pelo sistema de vazamento de gás. O programa realiza uma leitura dos valores de concentração de gases e fumaça que o sensor MQ-2 envia. Caso o valor atinga uma quantidade significativa, o sensor é acionado e então ocorre a execução do sistema de segurança: É desligado todas as luzes e aberto a cancela do portão para evacuamento, além de tocar uma sirene alertando sobre o vazamento junto com uma mensagem no display lcd dizendo que está vazando gás. Caso negativo, ele aguarda e realiza uma nova leitura. Esse bloco possui uma temporização independente.
    
-   5 - Responsável por acionar a luzes do jardim conforme a detecção de luminosidade verificada pelo LDR. O programa verifica constantemente se os valores analógicos do sensor de luminosidade não for atingido em um nível específico de luz, ele é ativado e executa a ação de ligar os LEDs do jardim. Caso estiver muito claro, ou seja, acima do nível limite de luz, ele apaga todas as luzes do jardim e verifica para quando o sensor for excitado por uma grande quantidade de luz. Esse bloco possui uma temporização independente.
+   5 - Responsável por acionar a luzes do jardim conforme a detecção de luminosidade verificada pelo LDR. O programa verifica constantemente se os valores analógicos do sensor de luminosidade não for atingido em um nível específico de luz, ele é ativado e executa a ação de ligar os LEDs do jardim. Caso estiver muito claro, ou seja, acima do nível limite de luz, ele apaga todas as luzes do jardim e verifica para quando o sensor for excitado por uma grande quantidade de luz. Esse bloco possui uma temporização independente. Esse bloco possui uma temporização independente.
 
 É importante ressaltar que, após a execução das tarefas referentes dentro da função loop, a mesma retorna ao estado de leitura inicial completando o ciclo.
 
 Por meio destas ações foi possível concluir que todo o sistema funciona corretamente, cumprindo com o que foi planejado nas etapas anteriores de concepção e design.
+
+---
+# Código Principal
+
+Para acessar o meu código [**Clique aqui**](./Codigos/THE_HOUSE_CARIOCA.ino)
+
+---
