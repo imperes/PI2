@@ -45,3 +45,14 @@ A programação é realizada por meio da [IDE Arduino](https://www.arduino.cc/en
 * [Sensor de presença PIR](./Testes/PIR.md)
 * [Sensor de gás MQ2](./Testes/mq2.md)
 * [LCD 16x2](./Testes/lcd.md)
+
+# Referências
+
+* [Fritzing](https://fritzing.org/)
+* [Tutorial Arduino LPAE](https://github.com/LPAE/arduino_tutorial)
+* [Utilizando LDR](https://www.filipeflop.com/universidade/kit-maker-arduino/projeto-10-sensor-de-luz-ambiente/)
+* [Utilizando DHT11](https://www.filipeflop.com/produto/sensor-de-umidade-e-temperatura-dht11/) 
+* [Utilizando Sensor de Gás MQ2](https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-sensor-detector-de-gas-inflamavel-fumaca-mq-2)
+* [Utilizando Servo Mototr](https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-servo-motor-mg995)
+* [Utilizando LCD 16x2 I2C](https://www.arduinoecia.com.br/modulo-i2c-display-16x2-arduino/) 
+* [Utilizando Sensor de Presença PIR](https://www.filipeflop.com/blog/acendendo-uma-lampada-com-sensor-de-presenca/)
