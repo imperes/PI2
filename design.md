@@ -40,10 +40,10 @@ A programação é realizada por meio da [IDE Arduino](https://www.arduino.cc/en
 * [LEDs](./Testes/LEDs.md)
 * [Motor Servo MG995](./Testes/servo.md)
 * [Buzzer](./Testes/buzzer.md)
-* [Sensor de temperatura e umidade DHT11](./Testes/dht.md)
-* [Sensor de luminosidade LDR](./Testes/ldr.md)
-* [Sensor de presença PIR](./Testes/PIR.md)
-* [Sensor de gás MQ2](./Testes/mq2.md)
+* [Sensor de Temperatura e Umidade DHT11](./Testes/dht.md)
+* [Sensor de Luminosidade LDR](./Testes/ldr.md)
+* [Sensor de Presença PIR](./Testes/PIR.md)
+* [Sensor de Gás MQ2](./Testes/mq2.md)
 * [LCD 16x2](./Testes/lcd.md)
 
 Precisamos tomar alguns cuidados para que tudo funcione adequadamente como um sistema com diversas tarefas sendo executadas ao mesmo tempo, como por exemplo não utilizar funções que bloqueiem completamente o sistema que é o caso da função delay(). Para exemplificar, a técnica de multitarefas que será utilizada disponibilizada pelo professor tem como o código abaixo e demostra como temporizar duas tarefas simples de piscar LED:
