@@ -1,22 +1,4 @@
-/*
-   ex_tarefas.ino
-        Aplicação exemplo com várias tarefas:
-          - Piscar o LED 1 a cada 1 segundo.
-          - Piscar o LED 2 a cada 300 milisegundos.
-          
-                  Arduino Mega
-                -----------------
-            /|\|                 |
-             | |                 |
-             --| RST             |
-               |                 |        -+
-  LED_2  <---  | D11             |- <- Rx  -  Cabo USB
-  LED_1  <---  | D12             |- -> Tx  -
-               |                 |        -+
-               |                 |
-*/
-
-#define LED_1 12
+#define LED_1 10
 #define LED_2 11
 
 
