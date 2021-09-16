@@ -27,10 +27,11 @@ Para este projeto, será realizada a construção de um protótipo de casa com o
 Neste projeto, será implementado um sistema de automação (Domótica) para proporcionar conforto, segurança e praticidade em tarefas diárias. Com base nisso, veja a seguir o planejamento:
 
 * Controle remoto das luzes da casa - O usuário poderá controlar as luzes de todos os cômodos remotamente;
-* Sensor para vazamento de gás - Haverá um sensor de gás para evitar futuras explosões por vazamento de gáses inflamáveis;
+* Sensor de gás - Haverá um sensor de gás para evitar futuras explosões por vazamento de gáses inflamáveis;
 * Lâmpadas inteligentes - Serão LED's com sensores de luminosidade (LDR) no jardim para serem acionadas automaticamente sempre que anoiteça ou desligadas sempre quando amanhecer;
-* Portão eletrônico - Será instalado um motor servo para fazer a abertura e fechamento do portão de garagem remotamente; 
-* Sensor de Temperatura - Terá no painel central um display que mostrará toda a interface do sistema, e nele, haverá a temperatura ambiente.
+* Portão eletrônico - Será instalado um motor servo para fazer a abertura e fechamento do portão remotamente; 
+* Sensor de Temperatura e Umidade - Terá no painel central um display que mostrará toda a interface do sistema, e nele, haverá a temperatura e umidade ambiente.
+* Sensor de Movimento - Será instalado um sensor de movimento dentro da garagem para detectar quando algum automóvel sair e fazer o acionamento do portão automaticamnete
 
 ---
 [**Design**](./design.md)
