@@ -60,7 +60,7 @@ Após realizadas todas as ligações da maquete, foram feitos inúmeros testes d
 
 # Código Principal
 
-Para acessar o meu código [**Clique aqui**](../Codigo/THE_HOUSE_CARIOCA.ino)
+Para acessar o meu código [**Clique aqui**](./Codigo/THE_HOUSE_CARIOCA.ino)
 
 
 # Tarefas realizadas pelo sistema
