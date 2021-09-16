@@ -27,6 +27,10 @@ Para a criação da maquete eletronica foi utilizado o software *Fritzing*. A pa
 ###### Figura 1 - Maquete eletrônica.
 ![Maquete Eletrônica](./Figuras/esquemacktcasa.jpg)
 
+* O Display LCD 16x2 foi ligado por meio de comunicação I2C, ou seja, usa-se apenas 4 pinos nos quais são: SDA (pino 20), SCL(pino 21), GND e VCC
+* O buzzer do esquemático é um PNP, ou seja, usa-se 3 pinos nos quais são: IO (pino 12), GND e VCC
+* O potenciômetro no esquemático não foi utilizado por conta do módulo I2C imbutido no Display LCD 16x2 que contém um ajuste do BackLight
+
 # Testes dos Componentes
 
 Depois de definirmos os componenetes, é necessário entender o funcionamento e realizar os testes de cada item separadamente. 
