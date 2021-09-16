@@ -9,6 +9,7 @@
 * [**Concepção do Projeto**](./concepcao.md)
 * [**Design**](./design.md)
 * [**Implementação**](./implementacao.md)
+* [**Operação**](./operacao.md)
 
 ---
 #### Propriedade de Gabriel Peres
