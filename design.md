@@ -48,7 +48,7 @@ A programação é realizada por meio da [IDE Arduino](https://www.arduino.cc/en
 
 Precisamos tomar alguns cuidados para que tudo funcione adequadamente como um sistema com diversas tarefas sendo executadas ao mesmo tempo. Para exemplificar, a técnica de multitarefas que será utilizada foi disponibilizada pelo professor e tem como o código abaixo e demostra como temporizar duas tarefas simples de piscar LED:
 
-* [Exemplo tarefas](./Testes/multitarefas.ino)
+* [Exemplo Multitarefas](./Testes/multitarefas.ino)
 
 O Monitor Serial é uma das ferramentas mais poderosas e necessária para executarmos todas as funções, pois ele torna possível transmitir ou ler informações na forma de texto. Ele será fundamental para a construção do projeto, pois por meio dele o usuário poderá se comunicar com o produto, exibindo dados e mensagem sobre o sistema na tela do computador e recebendo via teclado todos os comandos para executar tarefas. Para exemplificar, o professor disponibilizou um código de base para testarmos seu funcionamento. Foi criada uma aplicação para acender e apagar 3 LEDs utilizando os números de 1 a 3 do teclado. Cada LED muda seu estado atual quando for enviado o número correspondente a ele para o Monitor Serial:
 
