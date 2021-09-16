@@ -25,4 +25,19 @@ LDR | 1
 Para a criação da maquete eletronica foi utilizado o software *Fritzing*. A partir dele foi criado o seguinte esquemático:
 
 ###### Figura 1 - Maquete eletrônica.
-![Maquete Eletrônica](./Figuras/esquemackt2.jpg)
+![Maquete Eletrônica](./Figuras/esquemacktcasa.jpg)
+
+# Testes dos Componentes
+
+Depois de definirmos os componenetes, é necessário entender o funcionamento e realizar os testes de cada item separadamente. 
+
+A programação é realizada por meio da [IDE Arduino](https://www.arduino.cc/en/software) e antes de executar os códigos é preciso selecionar o modelo da placa que será utilizado, nesse caso Arduino Mega 2560. Nos links abaixo serão descritos como foi feito os testes de cada parte do projeto:
+
+* [LEDs](./Testes/LEDs.md)
+* [Servo](./Testes/Servo.md)
+* [Buzzer](./Testes/Buzzer.md)
+* [Sensor de temperatura e umidade](./Testes/DHT.md)
+* [Sensor de luminosidade](./Testes/LDR.md)
+* [Sensor de presença](./Testes/PIR.md)
+* [Sensor de gás](./Testes/MQ2.md)
+* [LCD 16x2](./Testes/lcd.md)
