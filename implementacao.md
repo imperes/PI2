@@ -90,3 +90,7 @@ A função loop é responsável por chamar diversas outras funções que são as
 É importante ressaltar que, após a execução das tarefas referentes dentro da função loop, a mesma retorna ao estado de leitura inicial completando o ciclo.
 
 Por meio destas ações foi possível concluir que todo o sistema funciona corretamente, cumprindo com o que foi planejado nas etapas anteriores de concepção e design.
+
+---
+
+[**Operação**](./operacao.md)
