@@ -1,24 +1,7 @@
-/*
-   ex_serial.ino
-        Aplicação controlar LEDs via teclado
-        
-                   Arduino Mega
-                -----------------
-            /|\|                 |
-             | |                 |
-             --| RST             |
-               |                 |        -+
-   LED1  <---  | D2              |- <- Rx  -  Cabo USB
-   LED2  <---  | D3              |- -> Tx  -
-   LED3  <---  | D4              |        -+
- 
-         
-*/
-
 /*Declaração da conexão dos componentes nos pinos*/
-#define LED1 2
-#define LED2 3
-#define LED3 4
+#define LED1 5
+#define LED2 6
+#define LED3 7
 
 /*Declaração da função*/
 void ler_teclado();
