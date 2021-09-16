@@ -58,6 +58,13 @@ Após realizadas todas as ligações da maquete, foram feitos inúmeros testes d
 
 <img src="./Figuras/maqueteligada.jpeg" width="300">
 
+---
+# Código Principal
+
+Para acessar o meu código [**Clique aqui**](./Codigos/THE_HOUSE_CARIOCA.ino)
+
+---
+
 # Funcionamento do Sistema Principal
 
 Na etapa anterior, foram realizados os testes individuais de cada componente. Agora, precisamos integrar todas as funcionalidades para que interajam de forma correta. Vale lembrar que as tarefas serão escalonadas na função loop, utilizando o métopo de multitarefas exemplicado no design. A baixo serão detalhadas cada tarefa, e seu respectivo funcionamento:
@@ -83,10 +90,3 @@ A função loop é responsável por chamar diversas outras funções que são as
 É importante ressaltar que, após a execução das tarefas referentes dentro da função loop, a mesma retorna ao estado de leitura inicial completando o ciclo.
 
 Por meio destas ações foi possível concluir que todo o sistema funciona corretamente, cumprindo com o que foi planejado nas etapas anteriores de concepção e design.
-
----
-# Código Principal
-
-Para acessar o meu código [**Clique aqui**](./Codigos/THE_HOUSE_CARIOCA.ino)
-
----
