@@ -1,24 +1,69 @@
 # Implementação
 
-Nesta etapa iremos iniciar a montagem do projeto de automatização residencial, ela irá receber todas as tecnologias baseando-se na estrutura apresentada e projetada na etapa do design. 
+Nesta etapa iremos iniciar a montagem do projeto de automatização residencial, ela irá receber todas as tecnologias baseando-se na estrutura apresentada e projetada na etapa do Design. 
 
 # Fabricação da maquete
 
 Na etapa da concepção foi apresentada a planta baixa da casa em questão, porém, foi apenas uma ideia inicial. 
 A maquete em si foi feita a partir de placas de isopor para fazer a base onde será montado o jardim e o terreno da casa. A casa foi projetada em MDF e cortada à laser, na qual decidi fazer três andares e uma garagem separada com portas. Além disso os outros materiais para decoração foram utilizados EVAs e papel adesivo.
 
-Alguns componentes estarão localizados no cômodo da cozinha, como o sensor de gás, sensor de temperatura e umidade e buzzer. Portanto para ser possível a visualização e testes forão colocados no primeiro andar. O arduino será localizado na região atrás da garagem e os fios de conexão levarão os componentes aos seus locais definidos.
+Alguns componentes estarão localizados no cômodo da cozinha e sala, como o sensor de gás, sensor de temperatura e umidade, buzzer e display lcd. Portanto para ser possível a visualização e testes serão instalados no primeiro andar. O arduino ficará localizado na região atrás da garagem e os fios de conexão levarão os componentes aos seus locais definidos.
 
 # Montagem
 
 A primeira parte da montagem da maquete era fazer um terreno grande para construir a infraestrutura da casa. Para isso, foram utilizadas duas placas de isopor para fazer a base do terreno e os muros.
 
-![muros do terreno](./Figuras/muros.png)
+<img src="./Figuras/muros.png" width="300">
+
+Após montada a base, partiremos para montagem da casa e da garagem em MDF.
+
+<img src="./Figuras/casaperfil.jpeg" width="300">
+<img src="./Figuras/casalado.jpeg" width="300">
+
+Depois disso, a casa foi colocada no isopor para marcar o quanto de EVA texturizado precisariamos
+
+<img src="./Figuras/casanoterreno.jpeg" width="300">
+
+Nessa etapa, foi cortada a folha em EVA e colocada sob o isopor para começarmos a montar todo o terreno
+
+<img src="./Figuras/grama.jpeg" width="300">
+
+Foi colado um papel texturizado de tijolo ao redor de todo o muro do terreno
+
+<img src="./Figuras/murocolado.jpeg" width="300">
+
+Utilizamos a folha em EVA para fazer a grama e para passar os fios por baixo, escondendo assim, parte da fiação do jardim, dos sensores e do motor servo
+
+<img src="./Figuras/grama_fio.jpeg" width="300">
+
+Na garagem, foi feita uma perfuração na parte de trás para passagem de alguns fios e também, a instalação do LED e do Sensor de Movimento PIR
+
+<img src="./Figuras/garagemfios.jpeg" width="300">
+
+Na casa principal foram feitas muitas perfurações nas partes traseira e lateral para passagem de fios e instalação dos LEDs nos cômodos
+
+<img src="./Figuras/fioslaterais.jpeg" width="300">
+
+<img src="./Figuras/instalacaoleds.jpeg" width="300">
+
+Os sensores de Gás, Temperatura e Umidade, Buzzer e o Display LCD 16x2 foram posicionados na parte da cozinha e sala no primeiro andar. Pois facilita o acesso para realizar testes de funcionamento e até mesmo na manutenção.
+
+<img src="./Figuras/posicaosensores.jpeg" width="300">
+
+Após realizadas todas as ligações da maquete, foram feitos inúmeros testes de funcionamento. Concluindo que está tudo funcionando perfeitamente!
+
+<img src="./Figuras/maquetepronta.jpeg" width="300">
+
+<img src="./Figuras/maqueteperfilpronta.jpeg" width="300">
+
+<img src="./Figuras/maqueteligada.jpeg" width="300">
+
+# Código Principal
+
+Para acessar o meu código [**Clique aqui**](../Codigo/THE_HOUSE_CARIOCA.ino)
 
 
-
-
-## Tarefas realizadas pelo sistema
+# Tarefas realizadas pelo sistema
 
 Na etapa anterior, foram realizados os testes individuais de cada componente, portanto para a criação das tarefas é necessário apenas integra-los da forma correta. Vale lembrar que as tarefas serão escalonadas na função loop, utilizando o métopo de multitarefas exemplicado no design. A baixo serão detalhadas cada tarefa, e seu respectivo funcionamento:
 
