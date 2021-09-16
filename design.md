@@ -8,7 +8,7 @@ Nesta etapa foi pensado e planejado em um esquema elétrico e em seus respectivo
 Componente   | Quantidade
 --------- | ------
 LED | 10
-Micro Servo SG90| 1
+Motor Servo MG995| 1
 Módulo Buzzer 5V | 1
 Sensor de Gás MQ2 | 1
 Sensor de Movimento Presença PIR | 1
